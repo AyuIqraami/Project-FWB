@@ -1,8 +1,8 @@
-<h1 align="center">DesaInvolve</h1>
+<h1 align="center">Explore SULBAR</h1>
 
 <hr/>
 
-<h3 align="center">sistem informasi kegiatan desa</h3>
+<h3 align="center">Sistem Informasi Wisata dan Tour Guide Sulawesi Barat</h3>
 
 ---
 
