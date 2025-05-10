@@ -21,7 +21,7 @@
 
 ## 👥 Role dan Fitur-fiturnya
 
-### 🏛 Pemerintah (Admin)
+### 🏛 Admin
 Role yang mewakili aparatur desa, yang bertanggung jawab memverifikasi dan mengelola kegiatan serta memantau partisipasi warga.
 
 *Fitur utama:*
@@ -30,7 +30,7 @@ Role yang mewakili aparatur desa, yang bertanggung jawab memverifikasi dan menge
 - Melihat laporan pendaftaran warga ke kegiatan
 - Melihat data warga dan penyelenggara
 
-### 🧑‍💼 Penyelenggara
+### 🧑‍💼 Guide
 Role organisasi atau kelompok yang bertanggung jawab mengusulkan dan menjalankan kegiatan.
 
 *Fitur utama:*
@@ -38,7 +38,7 @@ Role organisasi atau kelompok yang bertanggung jawab mengusulkan dan menjalankan
 - Melihat status kegiatan yang diajukan
 - Melihat daftar warga yang mendaftar ke kegiatan mereka
 
-### 👤 Warga
+### 👤 Wisatawan
 Role masyarakat umum yang bisa mendaftar kegiatan desa dan memberikan komentar.
 
 *Fitur utama:*
